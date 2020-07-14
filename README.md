@@ -1,8 +1,8 @@
-### Hi there 👋
+### Recursion going on
 
-test
+This is a screenshot of this exact page on desktop that refreshes every minute.
 
-![test](https://hw.luyu.dev/api/my-github) "test"
+![self](https://hw.luyu.dev/api/my-github) "self"
 
 <!--
 **LookRain/LookRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
